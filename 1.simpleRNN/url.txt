@@ -1,0 +1,18 @@
+
+https://en.wikipedia.org/wiki/Recurrent_neural_network
+
+https://keras.io/api/layers/recurrent_layers/simple_rnn/
+
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/SimpleRNN
+
+參數 unroll=True 
+RNN 會考慮同一層前面的輸出，當參數 unroll=True 時，表示計算時會先展開結構，它會使用較多的記憶體，但會縮短計算時間
+https://docs.google.com/presentation/d/1UHXrKL1oTdgMLoAHHPfMM_srDO0BCyJXPmhe4DNh_G8/pub?start=false&loop=false&delayms=3000&slide=id.g24bcaec3b0_0_22
+https://docs.google.com/presentation/d/1UHXrKL1oTdgMLoAHHPfMM_srDO0BCyJXPmhe4DNh_G8/pub?start=false&loop=false&delayms=3000&slide=id.g24bee80908_0_2684
+https://docs.google.com/presentation/d/1UHXrKL1oTdgMLoAHHPfMM_srDO0BCyJXPmhe4DNh_G8/pub?start=false&loop=false&delayms=3000&slide=id.g24bee80908_0_2271
+https://docs.google.com/presentation/d/1UHXrKL1oTdgMLoAHHPfMM_srDO0BCyJXPmhe4DNh_G8/pub?start=false&loop=false&delayms=3000&slide=id.g24bee80908_0_2311
+當前+上一步
+https://docs.google.com/presentation/d/1UHXrKL1oTdgMLoAHHPfMM_srDO0BCyJXPmhe4DNh_G8/pub?start=false&loop=false&delayms=3000&slide=id.g24bee80908_0_2351
+https://docs.google.com/presentation/d/1UHXrKL1oTdgMLoAHHPfMM_srDO0BCyJXPmhe4DNh_G8/pub?start=false&loop=false&delayms=3000&slide=id.g24ae31fa47_0_565
+
+

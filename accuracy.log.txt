@@ -1,0 +1,49 @@
+
+cd rnn/1.simpleRNN/
+
+01.mnst-RNN.py
+accuracy:0.968
+
+02.fashion-RNN.py
+accuracy:0.8549
+
+04.cifar10-rnn.py
+accuracy:0.3878
+
+
+
+cd ../2.LSTM
+
+01.mnst-LSTM.py
+accuracy:0.987
+
+02.fashion-LSTM.py
+accuracy:0.8862
+
+04.cifar10-lstm.py
+accuracy:0.5446
+
+
+
+cd ../3.GRU
+
+03.fashion-GRU.py
+accuracy:0.90
+
+
+
+cd ../4.BRNN
+
+01.cifar10-Bi-rnn.py
+accuracy:0.493
+
+02.cifar10-Bi-lstm.py
+accuracy:0.579
+
+03.cifar10-Bi-gru.py
+accuracy:0.5838
+
+04.fashion-bi-gru.py
+accuracy:0.901
+
+
